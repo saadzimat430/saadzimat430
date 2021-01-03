@@ -6,10 +6,10 @@
   <li>🏹 <b>2021 Goals</b></li>
   <ul>
     <li>Contribute to open-source projects</li>
-    <li>Learn Vue.js and the Serverless Framework</li>
+    <li>Learn Vue.js and Serverless Framework</li>
     <li>Discover the Cybersecurity and Blockchain world</li>
   </ul>
-  <li>📧 Reach me in: saadzimat430@gmail.com</li>
+  <li>📧 Reach me in: <a href="mailto: saadzimat430@gmail.com">saadzimat430@gmail.com</a></li>
 </ul>
 
 <!--
