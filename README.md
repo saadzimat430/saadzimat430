@@ -10,14 +10,12 @@
 ### Languages and Tools 💻
 
 <img align="left" alt="Visual Studio Code" width="28px" src="https://code.visualstudio.com/assets/favicon.ico" />
-<img align="left" alt="JetBrains IDEs" width="28px" src="https://res-1.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/jpmg78movhykl4d0dq6o" />
-<img align="left" alt="HTML5" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JetBrains IDEs" width="28px" src="https://pbs.twimg.com/profile_images/1276465732923129856/A_SdJ_cW_400x400.jpg" />
+<img align="left" alt="Angular" width="28px" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/031/square_256/angular2.png" />
 <img align="left" alt="Github" width="28px" src="https://assets.website-files.com/5d514fd9493b0575f03520bd/5da63c478e387d3116e002ba_github-icon-png-29.png" />
 <img align="left" alt="Node.js" width="28px" src="https://onlyweb-formation.com/uploads/mod_logo/nodejs.png" />
 <img align="left" alt="Flask" width="28px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBQqX699Ii1yOe0IYdJ3SmuIA8DFyIMgRKLQ&usqp=CAU" />
 <img align="left" alt="Django REST Framework" width="28px" src="https://avatars0.githubusercontent.com/u/1902055?s=280&v=4" />
-<img align="left" alt="Angular" width="28px" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/031/square_256/angular2.png" />
 <img align="left" alt="Spring Boot" width="28px" src="https://miro.medium.com/max/512/1*k73wp-nDid53eeQ0RDGvdw.png" />
 <img align="left" alt="Laravel" width="28px" src="https://styles.redditmedia.com/t5_2uakt/styles/communityIcon_fmttas2xiy351.png?width=256&s=23a11a8bc840779e41b4b7d4976e7a42a5c5f1f8" />
 <img align="left" alt="Docker" width="28px" src="https://miro.medium.com/max/512/1*Q2rRlwqv-tDfZ6QXmJqMuQ.png" />
@@ -27,4 +25,3 @@
 <img align="left" alt="PostgreSQL" width="28px" src="https://diamanti.com/wp-content/uploads/2019/10/postgresql.png" />
 <img align="left" alt="MongoDB" width="28px" src="https://4.bp.blogspot.com/-X7UPkOQjQuQ/WuHLUEM7SDI/AAAAAAAAAOY/rXGXSOfPP2ckF_cSOC3C5d3B_BhIgNcxACLcBGAs/s1600/mongodb%2B%25282%2529.png" />
 <img align="left" alt="Heroku" width="28px" src="https://s3.amazonaws.com/hackdesign/tools/app_images/000/000/037/icon_small/heroku-logo-6e6c2ed8be2ad02ac96455d53e4e7e43.png?1385326105" />
-
