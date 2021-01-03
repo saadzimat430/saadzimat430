@@ -12,7 +12,7 @@
 <img align="left" alt="Visual Studio Code" width="28px" src="https://code.visualstudio.com/assets/favicon.ico" />
 <img align="left" alt="JetBrains IDEs" width="28px" src="https://pbs.twimg.com/profile_images/1276465732923129856/A_SdJ_cW_400x400.jpg" />
 <img align="left" alt="Angular" width="28px" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/031/square_256/angular2.png" />
-<img align="left" alt="Github" width="28px" src="https://assets.website-files.com/5d514fd9493b0575f03520bd/5da63c478e387d3116e002ba_github-icon-png-29.png" />
+<img align="left" alt="Git" width="28px" src="https://avatars3.githubusercontent.com/u/18133?s=200&v=4" />
 <img align="left" alt="Node.js" width="28px" src="https://onlyweb-formation.com/uploads/mod_logo/nodejs.png" />
 <img align="left" alt="Flask" width="28px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBQqX699Ii1yOe0IYdJ3SmuIA8DFyIMgRKLQ&usqp=CAU" />
 <img align="left" alt="Django REST Framework" width="28px" src="https://avatars0.githubusercontent.com/u/1902055?s=280&v=4" />
