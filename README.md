@@ -1,8 +1,6 @@
 ### Hi there, I'm Saad 👋
 
 <ul>
-  <li>1</li>
-  <li>2</li>
   <li>🏹 <b>2021 Goals</b></li>
   <ul>
     <li>Contribute to open-source projects</li>
