@@ -16,7 +16,7 @@
 <img align="left" alt="Node.js" width="28px" src="https://onlyweb-formation.com/uploads/mod_logo/nodejs.png" />
 <img align="left" alt="Flask" width="28px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBQqX699Ii1yOe0IYdJ3SmuIA8DFyIMgRKLQ&usqp=CAU" />
 <img align="left" alt="Django REST Framework" width="28px" src="https://avatars0.githubusercontent.com/u/1902055?s=280&v=4" />
-<img align="left" alt="Spring Boot" width="28px" src="https://miro.medium.com/max/512/1*k73wp-nDid53eeQ0RDGvdw.png" />
+<img align="left" alt="Spring Boot" width="28px" src="https://spring.io/images/projects/spring-edf462fec682b9d48cf628eaf9e19521.svg" />
 <img align="left" alt="Laravel" width="28px" src="https://styles.redditmedia.com/t5_2uakt/styles/communityIcon_fmttas2xiy351.png?width=256&s=23a11a8bc840779e41b4b7d4976e7a42a5c5f1f8" />
 <img align="left" alt="Docker" width="28px" src="https://miro.medium.com/max/512/1*Q2rRlwqv-tDfZ6QXmJqMuQ.png" />
 <img align="left" alt="Trello" width="28px" src="https://cdn.techgyd.com/trello-6.jpg" />
