@@ -1,5 +1,17 @@
 ### Hi there, I'm Saad 👋
 
+<ul>
+  <li>1</li>
+  <li>2</li>
+  <li>🏹 <b>2021 Goals</b></li>
+  <ul>
+    <li>Contribute to open-source projects</li>
+    <li>Learn Vue.js and the Serverless Framework</li>
+    <li>Discover the Cybersecurity and Blockchain world</li>
+  </ul>
+  <li>📧 Reach me in: saadzimat430@gmail.com</li>
+</ul>
+
 <!--
 **saadzimat430/saadzimat430** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
