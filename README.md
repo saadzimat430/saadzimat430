@@ -2,20 +2,14 @@
 
 <!--
 **saadzimat430/saadzimat430** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
 -->
 
+### My Stats 📊
 [![Saad's github stats](https://github-readme-stats.vercel.app/api?username=saadzimat430)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saadzimat430)](https://github.com/anuraghazra/github-readme-stats)
+### Languages and Tools 💻
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://code.visualstudio.com/assets/favicon.ico" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Github" width="26px" src="https://assets.website-files.com/5d514fd9493b0575f03520bd/5da63c478e387d3116e002ba_github-icon-png-29.png" />
