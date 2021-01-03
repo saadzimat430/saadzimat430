@@ -9,6 +9,7 @@
     <li>Learn Vue.js and Serverless Framework</li>
     <li>Discover the Cybersecurity and Blockchain world</li>
   </ul>
+  <br>
   <li>📧 Reach me in: <a href="mailto: saadzimat430@gmail.com">saadzimat430@gmail.com</a></li>
 </ul>
 
