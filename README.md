@@ -4,8 +4,8 @@
   <li>I'm currently looking for an end-of-studies internship in Web development, DevOps or Data science and Machine Learning</li>
   <li>🏹 <b>2021 Goals</b></li>
   <ul>
-    <li>Contribute to open-source projects</li>
-    <li>Learn Vue.js and Serverless Framework</li>
+    <li>Contribute to some open-source projects</li>
+    <li>Learn Vue.js, Serverless Framework and Test Automation ...</li>
     <li>Discover the Cybersecurity and Blockchain world</li>
   </ul>
   <br>
