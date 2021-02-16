@@ -5,7 +5,7 @@
   <li>🏹 <b>2021 Goals</b></li>
   <ul>
     <li>Contribute to some open-source projects</li>
-    <li>Learn Vue.js, Serverless Framework and Test Automation ...</li>
+    <li>Learn Cloud technologies, Serverless Framework and Test Automation ...</li>
     <li>Discover the Cybersecurity and Blockchain world</li>
   </ul>
   <br>
