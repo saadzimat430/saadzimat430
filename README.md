@@ -6,7 +6,7 @@
   <ul>
     <li>Contribute to some open-source projects</li>
     <li>Learn Cloud technologies, Serverless Framework and Test Automation ...</li>
-    <li>Discover the Cybersecurity and Blockchain world</li>
+    <li>Discover Cybersecurity, Big Data and Blockchain world</li>
   </ul>
   <br>
   <li>📧 Reach me in: <a href="mailto: saadzimat430@gmail.com">saadzimat430@gmail.com</a></li>
