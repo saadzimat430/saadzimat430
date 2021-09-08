@@ -1,12 +1,12 @@
 ### Hi there, I'm Saad 👋
 
 <ul>
-  <li>I'm currently looking for an end-of-studies internship in Web development, DevOps or Data science and Machine Learning</li>
-  <li>🏹 <b>2021 Goals</b></li>
+  <li>I'm a junior Full Stack engineer, 22 years old from Casablanca, Morocco.</li>
+  <li>🏹 <b>2022 Goals</b></li>
   <ul>
-    <li>Contribute to some open-source projects</li>
-    <li>Learn Cloud technologies, Serverless Framework and Test Automation ...</li>
-    <li>Discover Cybersecurity, Big Data and Blockchain world</li>
+    <li>Sharpen my coding skills, especially in the Spring Boot and Angular stack,</li>
+    <li>Learn more about software craftsmanship and the good coding practices,</li>
+    <li>Get a hands-on experience on mobile development and DevOps.</li>
   </ul>
   <br>
   <li>📧 Reach me in: <a href="mailto: saadzimat430@gmail.com">saadzimat430@gmail.com</a></li>
