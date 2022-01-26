@@ -1,12 +1,13 @@
 ### Hi there, I'm Saad 👋
 
 <ul>
-  <li>I'm a junior Full Stack engineer, 22 years old from Casablanca, Morocco.</li>
+  <li>I'm a Junior Full Stack engineer, 23 years old from Casablanca, Morocco.</li>
   <li>🏹 <b>2022 Goals</b></li>
   <ul>
     <li>Sharpen my coding skills, especially in the Spring Boot and Angular stack,</li>
     <li>Learn more about software craftsmanship and the good coding practices,</li>
-    <li>Get a hands-on experience on mobile development and DevOps.</li>
+    <li>Get a hands-on experience on mobile development and DevOps,</li>
+    <li>Learn more about Blockchain, Cryptocurrencies and Decentralized Finance.</li>
   </ul>
   <br>
   <li>📧 Reach me in: <a href="mailto: saadzimat430@gmail.com">saadzimat430@gmail.com</a></li>
