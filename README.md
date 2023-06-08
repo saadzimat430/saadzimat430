@@ -2,7 +2,7 @@
 
 <ul>
   <li>I'm a 24 years old Full Stack engineer from Casablanca, Morocco.</li>
-  <li>🏹 <b>2022 Goals</b></li>
+  <li>🏹 <b>2023 Goals</b></li>
   <ul>
     <li>Sharpen my coding skills, especially in the Spring Boot and Angular stack,</li>
     <li>Learn more about software craftsmanship and the good coding practices,</li>
